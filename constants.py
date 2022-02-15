@@ -1,0 +1,6 @@
+EXIT_MESSAGE = 'Bye!'
+HELP_MESSAGE = 'HELP YOURSELF NEW'
+UNKNOWN_COMMAND_MESSAGE = 'Unknown command'
+SYNTAX_ERROR_MESSAGE = 'Invalid expression'
+
+COMMANDS = {'/exit': EXIT_MESSAGE, '/help': HELP_MESSAGE}
